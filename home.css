@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sansita+Swashed:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@800&display=swap');
+.body{
+	margin: 0px auto;
+	padding: 0px;
+	font-family: 'Lato';
+}
+
+.navbar-brand{
+	font-size: 45px;	
+	font-family: 'Swashed';
+}
+.navbar-nav{
+	margin-left:175px;
+	font-size: 23px;
+	font-family: 'Swashed';
+	color:yellow;
+	padding:0px;
+
+}
+.dropdown-menu{
+	font-size: 21px;
+}
+.site-content{
+	top: -60px;
+	background-image: url(4p.png);
+	height:520px;
+	opacity: 95%;
+	background-size: cover;
+	position: relative;
+}
+.title{
+	margin: 60px 50px;
+	font-size: 50px;
+	top: -34px;
+
+}
+.desc{
+
+	margin:-60px 80px; 
+	font-size: 20px;
+	color: white;
+}
+.btn-normal{
+	margin:50px 120px;
+}
+.btn{
+	left: 6%;
+	position: relative;
+}
+.section1{
+	position: relative;
+	margin-top: -60px;
+	background-color: rgba(29,29,29);
+	width: 1263px;
+	height:650px;
+}
+.text-center{
+	color: white;
+}
+.nav-link{
+	color: yellow;
+}
+.dropdown-item{
+	color: yellow;
+	text-align: center;
+	font-size: 18px;
+	margin-bottom:-10px;
+}
+.dropdown-menu{
+	background-color: black;
+	border-radius: 6px;
+	margin-bottom:-10px;
+}
+.imagebox{ 
+	margin-left: 45px;
+	height: 280px;
+	margin-top: 25px;
+	background-color: #333333; 
+cursor:pointer;
+} 
+
+
+
+
+.imagebox:hover{
+	box-shadow:0 15px 20px rgba(0,0,0,50);
+}
+.section2{
+	background-color: gray;
+	width: 1265px;
+	height: 100px;
+}
+
+.Sylas:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(sylas1.png);
+	border-radius: 7px;
+}
+.Kaisa:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(kaisa2.png);
+	border-radius: 7px;
+}
+.Ahri:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(azir2.png);
+	border-radius: 7px;
+	cursor:pointer;
+}
+.Sona:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(sona1.png);
+	border-radius: 7px;
+}	
+.Azir:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(azir2.png);
+	border-radius: 7px;
+}
+.Miss:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(miss2.png);
+	border-radius: 7px;
+}
+.Neeko:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(neeko1.png);
+	border-radius: 7px;
+}
+.Caitlyn:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(cait2.png);
+	border-radius: 7px;
+}
+.Akali:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(akali2.png);
+	border-radius: 7px;
+}
+.Yi:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(yi.png);
+	border-radius: 7px;
+}
+.Ezreal:hover span{
+	width: 260px;
+	height: 50px;
+	display: block;
+	margin-left: -50px;
+	background-image: url(ezre2.png);
+	border-radius: 7px;
+}
+	
